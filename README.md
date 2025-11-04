@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A <b>Moroccan 🇲🇦 code enthusiast</b> who’s obsessed with building things—especially with Python & ML! 🐍<br>
+  A <b>Moroccan code enthusiast</b> who’s obsessed with building things—especially with Python & ML! 🐍<br>
   I turn coffee ☕ into websites, apps, and (sometimes) machine learning magic ✨
 </p>
 
