@@ -15,6 +15,7 @@
 - **Python** 🐍 (my ride-or-die—ML, scripting, you name it!)
 - **Machine Learning** 🤖 (training models that *almost* behave… most days)
 - Turning ideas into working code (even if I debug at 2 AM 🌙)
+- computer vision
 
 ### 💻 Tech I Work With
 *(Spoiler: I’m pretty cozy with these!)*
