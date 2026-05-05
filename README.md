@@ -50,11 +50,6 @@
 
 ---
 
-### 🐾 Fun Bits
-- I once taught a ML model to recognize my cat… it still confuses her with a potato 🥔
-- My GitHub contributions? Mostly coffee stains in code form ☕
-- Ask me about my favorite Python libraries—I could talk for *hours* (seriously)
-
 <p align="center">
   Let’s connect! 😊<br>
   <a href="[https://www.instagram.com/@OUA_GH/](https://www.instagram.com/oua_gh?igsh=MTkxY2J0d2s3ZXJi)" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40ghitahvibe-E4405F?style=flat&logo=instagram" alt="Instagram" /></a>
