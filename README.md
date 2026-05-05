@@ -11,14 +11,13 @@
 
 ---
 
-### 🧡 What I Love Most
-- **Python** 🐍 (my ride-or-die—ML, scripting, you name it!)
-- **Machine Learning** 🤖 (training models that *almost* behave… most days)
-- Turning ideas into working code (even if I debug at 2 AM 🌙)
-- computer vision
+### 🚀 About Me
+📊 Focused on Data Analytics & Python
+🧠 Learning data cleaning, visualization & insights
+🤖 Exploring Machine Learning & Computer Vision
 
 ### 💻 Tech I Work With
-*(Spoiler: I’m pretty cozy with these!)*
+*(I’m pretty cozy with these!)*
 
 <div align="center">
   <!-- Python gets a little extra love 😉 -->
