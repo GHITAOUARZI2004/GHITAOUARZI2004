@@ -52,9 +52,8 @@
 
 <p align="center">
   Let’s connect! 😊<br>
-  <a href="[https://www.instagram.com/@OUA_GH/](https://www.instagram.com/oua_gh?igsh=MTkxY2J0d2s3ZXJi)" target="_blank"><img src="https://img.shields.io/badge/Instagram-%40ghitahvibe-E4405F?style=flat&logo=instagram" alt="Instagram" /></a>
   <a href="mailto:ouarzighita48@gmail.com"><img src="https://img.shields.io/badge/Gmail-ouarzighita48@gmail.com-D14836?style=flat&logo=gmail" alt="Gmail" /></a>
-  <a href="[Your LinkedIn/Portfolio]"><img src="https://img.shields.io/badge/Let's%20Chat!-blue?style=flat&logo=linkedin" alt="Connect" /></a>
+
 </p>
 
 <p align="center">
