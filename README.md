@@ -19,7 +19,7 @@
 * 💻 Built projects in:
 
   * Management Systems
-  * Face Recognition
+  * Recognition
   * Computer Vision applications
   * Python-based solutions
 
