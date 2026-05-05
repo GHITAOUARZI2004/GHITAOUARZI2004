@@ -12,9 +12,9 @@
 ---
 
 ### 🚀 About Me
-📊 Focused on Data Analytics & Python
-🧠 Learning data cleaning, visualization & insights
-🤖 Exploring Machine Learning & Computer Vision
+# 📊 Focused on Data Analytics & Python
+# 🧠 Learning data cleaning, visualization & insights
+# 🤖 Exploring Machine Learning & Computer Vision
 
 
 
