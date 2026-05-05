@@ -1,15 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Ghita</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ka4oVyR9Y5QqQ/giphy.gif" width="150" alt="Coding cat" />
-</p>
-
-<p align="center">
-  A <b>Moroccan code enthusiast</b> who’s obsessed with building things—especially with Python & ML! 🐍<br>
-  I turn coffee ☕ into websites, apps, and (sometimes) machine learning magic ✨
-</p>
-
----
 
 <h1 align="center">Hey there! 👋 I'm Ghita</h1>
 
